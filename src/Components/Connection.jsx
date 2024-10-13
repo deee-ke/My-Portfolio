@@ -52,16 +52,16 @@ function Connection() {
                         </div>
                         <div className="soclinks d-flex justify-content-evenly">
                             <div className="socicons wtsp">
-                                <a href='#'><i class="fa-brands fa-whatsapp fs-4"></i></a>
+                                <a href='https://wa.me/918086063016' target='blank'><i class="fa-brands fa-whatsapp fs-4"></i></a>
                             </div>
                             <div className="socicons insta">
-                                <a href='#'><i class="fa-brands fa-instagram fs-4"></i></a>
+                                <a href='https://www.instagram.com/deee.kode' target='blank'><i class="fa-brands fa-instagram fs-4"></i></a>
                             </div>
                             <div className="socicons githb">
-                            <a href='#'><i class="fa-brands fa-github fs-4"></i></a>
+                            <a href='https://github.com/deee-ke' target='blank'><i class="fa-brands fa-github fs-4"></i></a>
                             </div>
                             <div className="socicons linkd">
-                            <a href='#'><i class="fa-brands fa-linkedin-in fs-4"></i></a>
+                            <a href='https://www.linkedin.com/in/dhanish-ahamed-4b7553287/' target='blank'><i class="fa-brands fa-linkedin-in fs-4"></i></a>
                             </div>
                             {/* <div className="socicons">
                             <i class="fa-solid fa-phone"></i>
@@ -81,7 +81,7 @@ function Connection() {
                         </div>
                         <div className="resbutton d-flex justify-content-center">
                             <div className="resbtn rounded-1 ">
-                                <button>Download <i class="fa-solid fa-download"></i></button>
+                                <a download href='https://drive.google.com/file/d/1XuSmhPZ1HAHm2GwSCC-G5uCsFoO94dBr/view?usp=sharing' target='blank'><button>Download <i class="fa-solid fa-download"></i></button></a>
                             </div>
                         </div>
                     </div>

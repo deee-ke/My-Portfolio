@@ -39,13 +39,14 @@ function Projects() {
                 <div className="col-2"></div>
                 <div className="col-12 col-md-8 ">
                     <div className="projectimg">
-                        <img src={waytogo} alt="" width={'100%'} />
+                        {/* <img src={waytogo} alt="" width={'100%'} /> */}
+                        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7132616104006328320?compact=1" height="399" width={'100%'} frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
                     </div>
                     <div className="projectdescr mt-3">
                         <div className="projdescrhead d-flex justify-content-between">
-                            <h3>Project Name</h3>
+                            <h3>Way-2-Go</h3>
                             <div className="controls d-flex gap-3">
-                                <i class="fa-regular fa-circle-play fs-2"></i>
+                                <i class="fa-regular fa-eye fs-2"></i>
                                 <i class="fa-brands fa-github fs-2"></i>
                             </div>
                         </div>
@@ -53,9 +54,9 @@ function Projects() {
                             <p className='mb-2 moreinfo' onClick={() => setOpen(!open)} aria-controls="example-collapse-text" aria-expanded={open}>More info <i class="fa-solid fa-caret-down"></i></p>
                             <Collapse in={open}>
                                 <div id="example-collapse-text">
-                                <p><span>Technologies Used:</span> (List the main tech stack) <br />
-                                <span>Description:</span> A brief overview of the project, explaining its purpose and functionality. Highlight any unique features or challenges you solved. <br />
-                                <span>Role:</span> Describe your specific contributions (e.g., full stack development, front-end design, back-end logic).</p>
+                                <p><span>Technologies Used: </span>HTML, CSS, Bootstrap. <br />
+                                <span>Overview: </span>A sleek travel website built from scratch using HTML, CSS, and Bootstrap. Excited about the responsive design that ensures a seamless experience across all devices.  <br />
+                                <span>Features: <br /></span>✅Responsive design for seamless use on any device <br /></p>
                                 </div>
                             </Collapse>
                             
@@ -71,13 +72,14 @@ function Projects() {
                 <div className="col-2"></div>
                 <div className="col-12 col-md-8 ">
                     <div className="projectimg">
-                        <img src={waytogo} alt="" width={'100%'} />
+                        {/* <img src={waytogo} alt="" width={'100%'} /> */}
+                        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7132611713849307136?compact=1" height="399" width={'100%'} frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
                     </div>
                     <div className="projectdescr mt-3">
                         <div className="projdescrhead d-flex justify-content-between">
-                            <h3>Project Name</h3>
+                            <h3>WeatherKast</h3>
                             <div className="controls d-flex gap-3">
-                                <i class="fa-regular fa-circle-play fs-2"></i>
+                                <i class="fa-regular fa-eye fs-2"></i>
                                 <i class="fa-brands fa-github fs-2"></i>
                             </div>
                         </div>
@@ -85,9 +87,13 @@ function Projects() {
                             <p className='mb-2 moreinfo' onClick={() => setOpen(!open)} aria-controls="example-collapse-text" aria-expanded={open}>More info <i class="fa-solid fa-caret-down"></i></p>
                             <Collapse in={open}>
                                 <div id="example-collapse-text">
-                                <p><span>Technologies Used:</span> (List the main tech stack) <br />
-                                <span>Description:</span> A brief overview of the project, explaining its purpose and functionality. Highlight any unique features or challenges you solved. <br />
-                                <span>Role:</span> Describe your specific contributions (e.g., full stack development, front-end design, back-end logic).</p>
+                                <p><span>Technologies Used: </span>HTML, CSS, Bootstrap, Javascript. <br />
+                                <span>Overview: </span> This responsive weather-finding website brings a seamless user experience. Check out the video to see how technology and creativity come together to make weather tracking a breeze!  <br />
+                                <span>Features: <br /></span>✅Responsive design for seamless use on any device <br />
+                                ✅ Global city weather tracking <br />
+                                ✅ Engaging cartoon images reflecting real-time weather, transitioning with day and night <br />
+                                ✅ User-friendly interface for easy navigation <br />
+                                ✅ Attractive design that combines simplicity with style. </p>
                                 </div>
                             </Collapse>
                             

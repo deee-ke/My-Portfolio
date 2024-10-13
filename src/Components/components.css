@@ -232,8 +232,14 @@
 .project{
     margin-top: 50px;
 }
-.projectimg img{
+
+/* .projectimg img{
     border-radius: 30px;
+} */
+
+.projectimg iframe{
+    border-radius: 20px;
+    border: 2px solid black;
 }
 
 .projdescrhead h3{
@@ -262,14 +268,14 @@
     color: #88A462;
 }
 
-.fa-circle-play{
+.fa-eye{
     color: #88A462;
 }
 .fa-github{
     color: #91826B;
 }
 
-.fa-circle-play:hover{
+.fa-eye:hover{
     color: #89a4629e;
 }
 .fa-github:hover{
@@ -443,7 +449,12 @@
 
 .wtsp:hover{
     i{
-        color: #25D366;
+        background: linear-gradient(45deg, 
+    #25D366,  /* WhatsApp green */
+    #128C7E   /* Darker green */
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
         transform: scale(1.2);
     }
 }
