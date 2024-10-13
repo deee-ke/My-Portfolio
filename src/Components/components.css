@@ -29,7 +29,7 @@
 
 /* Aboutme.jsx  */
 .aboutme{
-    background-color: black ;
+    background-color: #0f1012 ;
     border-radius: 30px;
 }
 
@@ -45,7 +45,7 @@
 
 .abouth2 h2{
     color: #91826B;
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 600;
     margin: 0;
     position: absolute;
@@ -60,9 +60,13 @@
 }
 
 /* MyCertifications.jsx */
+#mycerti{
+    margin-top: 60px;
+}
+
 .mycertihead h2{
     color: #ffffff;
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 600;
 }
 
@@ -71,3 +75,439 @@
     color: #88A462;
     font-weight: 500;
 }
+
+.certi,.certiname{
+    margin-top: 70px;
+}
+
+.certisummary{
+    background-color: #0f1012;
+}
+
+.slno h1,.slno2 h1,.slno3 h1,.slno4 h1{
+    font-size: 220px;
+    color: #91826B;
+    font-weight: 700;
+    font-family: "Josefin Sans", serif;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    align-items: flex-start;
+    box-sizing: border-box;
+    line-height: 1;
+    margin-bottom: -30px;
+
+}
+
+.slno2 h1{
+    color: #828B80;
+}
+
+.slno3 h1{
+    color: #637783;
+}
+
+.slno4 h1{
+    color: #b7a5a3;
+}
+
+.summary p{
+    font-size: 24px ;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+/* MySplztn.jsx */
+#mysplztn{
+    margin-top: 70px;
+}
+.spzlcards{
+    margin-top: 50px;
+}
+.mysplhead h2{
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+/* .totcard{
+    background-color: #0f1012;
+} */
+
+.splcontent span{
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+/* BadgesErnd.jsx */
+#badgesernd{
+    margin-top: 70px;
+}
+
+.badgeshead h2{
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.fullstckmain{
+    background-color: #1A496D;
+    margin-top: 50px;
+}
+
+.mainbadge{
+    overflow: hidden;
+}
+
+.fssdhead h3{
+    color: #ffffff;
+    font-size: 34px;
+    font-weight: 500;
+}
+.fssdsummary p{
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.badge{
+    background-color: #0f1012;
+}
+.badge img{
+    border-radius: 50%;
+    transition: transform 0.5s ease;
+}
+
+.badge:hover img{
+    transform: scale(1.1);
+}
+
+/* Projects.jsx */
+#projects{
+    margin-top: 70px;
+}
+
+.projectshead h2{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.projectstypehead{
+    margin-top: 50px;
+}
+
+.projectstypehead h2{
+    font-size: 34px;
+    color: #88A462;
+    font-weight: 500;
+}
+
+.filtericon{
+    background-color: #91826B;
+
+}
+
+.filtericon i{
+    color: #0f1012;
+}
+
+.filterdropdown{
+    background-color: #ffffff;
+    color: black;
+}
+
+.filterdropdown select{
+    color: black;
+    border: none;
+    width: 100%;
+    height: 100%;
+    appearance:none;
+    font-weight: 500;
+}
+.filterdropdown select option{
+    color: black;
+    background-color: #ffffff;
+}
+
+.project{
+    margin-top: 50px;
+}
+.projectimg img{
+    border-radius: 30px;
+}
+
+.projdescrhead h3{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.projdescription p{
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.projdescription span{
+    font-weight: 500;
+}
+
+.moreinfo{
+    font-style: italic;
+    text-decoration:underline;
+}
+
+.fa-caret-down{
+    color: #88A462;
+}
+.fa-caret-up{
+    color: #88A462;
+}
+
+.fa-circle-play{
+    color: #88A462;
+}
+.fa-github{
+    color: #91826B;
+}
+
+.fa-circle-play:hover{
+    color: #89a4629e;
+}
+.fa-github:hover{
+    color:#91826b9e
+}
+
+/* Skills.jsx */
+#skills{
+    margin-top: 70px;
+}
+
+.skills{
+    margin-top: 60px;
+}
+
+.skillshead h2{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.skillbox{
+    background-color: #0f1012;
+   
+}
+
+.html {
+    border-left: 5px solid #E44D26;
+    i{
+        color: #E44D26;
+    }
+}
+.css {
+    border-left: 5px solid #1572B6;
+    i{
+        color: #1572B6;
+    }
+}
+.javascript {
+    border-left: 5px solid #F7DF1E;
+    i{
+        color: #F7DF1E;
+    }
+}
+.bootstrap {
+    border-left: 5px solid #7952B3;
+    i{
+        color: #7952B3;
+    }
+}
+.react {
+    border-left: 5px solid #00D8FF;
+    i{
+        color: #00D8FF;
+    }
+}
+.figma {
+    border-left: 5px solid #0ACF83;
+    i{
+        color: #0ACF83;
+    }
+}
+.mongo {
+    border-left: 5px solid #47A248;
+    i{
+        color: #47A248;
+    }
+}
+.nodjs {
+    border-left: 5px solid #339933;
+    i{
+        color: #339933;
+    }
+}
+.express {
+    border-left: 5px solid #ffffff;
+    i{
+        color: #ffffff;
+    }
+}
+.github {
+    border-left: 5px solid #ffffff;
+    i{
+        color: #ffffff;
+    }
+}
+
+.skillpercent span{
+    font-size: 30px;
+    font-weight: 500;
+    color: #91826B;
+}
+
+.skillname span{
+    font-size: 25px;
+    font-weight: 400;
+}
+
+/* Connection.jsx */
+#connection{
+    margin-top: 70px;
+}
+
+.connectionhead h2{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.emailsoc{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.email,.social,.resume{
+    background-color: #0f1012;
+    text-align: center;
+}
+
+/* .emailicon,.socicon,.resumeicon{
+    width: ;
+    height: ;
+} */
+
+
+.planeicon{
+    background-color: rgba(151, 98, 164, 0.35);
+    border-radius: 50%;
+    i{
+        color: #0f1012;
+    }
+}
+
+.servericon{
+    background-color: rgba(98, 164, 148, 0.35);
+    border-radius: 50%;
+    i{
+        color: #0f1012;
+    }
+}
+
+.fileicon{
+    background-color: rgba(145, 130, 107, 1);
+    border-radius: 50%;
+    i{
+        color: #0f1012;
+    }
+}
+
+
+.emailhead h2,.sochead h2,.reshead h2{
+    font-size: 21px;
+    font-weight: 700;
+}
+
+.gmail a{
+    color: #88A462;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.gmail a:hover{
+    color: #1572B6;
+}
+
+.socicons a{
+    text-decoration: none;
+    /* transition: transform 4s ease-in-out; */
+    i{
+        color: #88A462;
+    }
+}
+
+.wtsp:hover{
+    i{
+        color: #25D366;
+        transform: scale(1.2);
+    }
+}
+.insta:hover{
+    i{
+        background: linear-gradient(45deg,
+        #F58529,
+        #FDCB58,
+        #FD1D1D, 
+        #D6249F, 
+        #8134AF, 
+        #515BD4  );
+        transform: scale(1.2);
+        -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    }
+}
+.githb:hover{
+    i{
+        color: #fff;
+        transform: scale(1.2);
+    }
+}
+.linkd:hover{
+    i{
+        color: #0A66C2;
+        transform: scale(1.2);
+    }
+}
+
+.resbtn{
+    background-color: #88A462;
+}
+.resbtn button{
+    color: #0f1012;
+    font-size: 17px;
+    font-weight: 500;
+    background: transparent;
+    border: none;
+    i{
+        color: #0f1012;
+    }
+}
+
+.resbtn:hover{
+    background-color: #89a46286;
+}
+
+/* Footer.jsx */
+#footer{
+    background-color: #000;
+}
+.footer{
+    h2{
+        font-size: 25px;
+        font-weight: 300;
+        .myname{
+            font-weight: 600;
+            color: #88A462;
+        }
+        .built{
+            font-weight: 600;
+            color: #00D8FF;
+        }
+    }
+}
+
