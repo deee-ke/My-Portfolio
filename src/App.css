@@ -5,8 +5,9 @@
   /* font-weight: ; */
   font-style: normal;
   color: #ffffff;
-  body
-    {
-        background-color: #1a1c1f;
-    }
+  
+}
+
+body{
+  background-color: #1A1C1F;
 }
