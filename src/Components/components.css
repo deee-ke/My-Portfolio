@@ -513,11 +513,11 @@
         font-weight: 300;
         .myname{
             font-weight: 600;
-            color: #88A462;
+            color: #88A462 !important;
         }
         .built{
             font-weight: 600;
-            color: #00D8FF;
+            color: #00D8FF !important;
         }
     }
 }
