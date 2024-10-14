@@ -21,7 +21,7 @@ function MySplztn() {
                         <div class="info d-flex justify-content-center align-items-center flex-column mx-auto p-5">
                             {/* <h1 className='fs-2'>Way 2 go</h1> */}
                             {/* <p>HTML,CSS,JavaScript</p> */}
-                            <button >Click to view more <i class="fa-solid fa-arrow-right"></i></button>
+                            <a href='https://coursera.org/share/6bdec3630d48fb3e812e5e7b1d1563b5' target='blank'><button >Click to view more <i class="fa-solid fa-arrow-right"></i></button></a>
                         </div>
                     </div>
                     <div className='splcontent text-center p-3'>
@@ -37,7 +37,7 @@ function MySplztn() {
                         <div class="info d-flex justify-content-center align-items-center flex-column mx-auto p-5">
                             {/* <h1 className='fs-2'>Way 2 go</h1> */}
                             {/* <p>HTML,CSS,JavaScript</p> */}
-                            <button >Click to view more <i class="fa-solid fa-arrow-right"></i></button>
+                            <a href='https://coursera.org/share/619711f86695856fe4bbeff16edc5803' target='blank'><button >Click to view more <i class="fa-solid fa-arrow-right"></i></button></a>
                         </div>
                     </div>
                     <div className='splcontent text-center p-3'>
@@ -53,7 +53,7 @@ function MySplztn() {
                         <div class="info d-flex justify-content-center align-items-center flex-column mx-auto p-5">
                             {/* <h1 className='fs-2'>Way 2 go</h1> */}
                             {/* <p>HTML,CSS,JavaScript</p> */}
-                            <button >Click to view more <i class="fa-solid fa-arrow-right"></i></button>
+                            <a href='https://coursera.org/share/37f535dde3354e17c8787de4339f15fe' target='blank'><button >Click to view more <i class="fa-solid fa-arrow-right"></i></button></a>
                         </div>
                     </div>
                     <div className='splcontent text-center p-3'>
@@ -69,7 +69,7 @@ function MySplztn() {
                         <div class="info d-flex justify-content-center align-items-center flex-column mx-auto p-5">
                             {/* <h1 className='fs-2'>Way 2 go</h1> */}
                             {/* <p>HTML,CSS,JavaScript</p> */}
-                            <button >Click to view more <i class="fa-solid fa-arrow-right"></i></button>
+                            <a href='https://coursera.org/share/270d29afe06036f8a90afed3a10df1e5' target='blank'><button >Click to view more <i class="fa-solid fa-arrow-right"></i></button></a>
                         </div>
                     </div>
                     <div className='splcontent text-center p-3'>
@@ -85,7 +85,7 @@ function MySplztn() {
                         <div class="info d-flex justify-content-center align-items-center flex-column mx-auto p-5">
                             {/* <h1 className='fs-2'>Way 2 go</h1> */}
                             {/* <p>HTML,CSS,JavaScript</p> */}
-                            <button >Click to view more <i class="fa-solid fa-arrow-right"></i></button>
+                            <a href='https://coursera.org/share/6e27448f22972e3316b08f83723f3759' target='blank'><button >Click to view more <i class="fa-solid fa-arrow-right"></i></button></a>
                         </div>
                     </div>
                     <div className='splcontent text-center p-3'>

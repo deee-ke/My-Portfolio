@@ -26,7 +26,7 @@ import Skills from './Components/Skills';
 function App() {
   return (
     <>
-      <div className='container'>
+      <div className=' container'>
         <NavBar/>
         <Head/>
         <Aboutme/>

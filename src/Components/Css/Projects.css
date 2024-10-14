@@ -40,6 +40,13 @@
     appearance:none;
     font-weight: 500;
 }
+
+.filterdropdown select:focus{
+    border: none;
+    outline: none;    
+    
+}
+
 .filterdropdown select option{
     color: black;
     background-color: #ffffff;
@@ -55,7 +62,9 @@
 
 .projectimg iframe{
     border-radius: 20px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
+    height: 40vh;
+    overflow: hidden;
 }
 
 .projdescrhead h3{

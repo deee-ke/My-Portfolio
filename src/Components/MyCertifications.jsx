@@ -19,7 +19,7 @@ function MyCertifications() {
         <div className="certi row justify-content-between">
             <div className="certificate col-md-3">
                 <div className=" overflow-hidden rounded-3 ">
-                  <img src={bcadegree} width={'100%'} alt="" />
+                  <a download href='https://drive.google.com/file/d/1i-7SSAl5f7lmM6XqpL5mVM47N8wORLs-/view?usp=sharing' target='blank'><img src={bcadegree} width={'100%'} alt="" /></a>
                 </div>
             </div>
             <div className="certisummary col-md-8  rounded-5">
@@ -52,7 +52,7 @@ function MyCertifications() {
             </div>
             <div className="certificate col-md-3">
                 <div className=" overflow-hidden rounded-3 ">
-                  <img src={nactet} width={'100%'} alt="" />
+                  <a download href='https://drive.google.com/file/d/1HlScfdQt9hgZDh1gYFtxCunD1-97evfy/view?usp=sharing' target='blank'><img src={nactet} width={'100%'} alt="" /></a>
                 </div>
             </div>
         </div>
@@ -64,7 +64,7 @@ function MyCertifications() {
         <div className="certi row justify-content-between">
             <div className="certificate col-md-5">
                 <div className=" overflow-hidden rounded-3 ">
-                  <img src={ibmcerti} width={'100%'} alt="" />
+                  <a href='https://coursera.org/share/7d983aa07c4a902c64440ca0f2c54b02' target='blank'><img src={ibmcerti} width={'100%'} alt="" /></a>
                 </div>
             </div>
             <div className="certisummary col-md-6  rounded-5">
@@ -97,7 +97,7 @@ function MyCertifications() {
             </div>
             <div className="certificate col-md-3">
                 <div className=" overflow-hidden rounded-3 ">
-                  <img src={luminar} width={'100%'} alt="" />
+                  <a download href='https://drive.google.com/file/d/1A83S2gE9M4SWKzY4Pf_hlBJ0SkXbDeIc/view?usp=sharing' target='blank'><img src={luminar} width={'100%'} alt="" /></a>
                 </div>
             </div>
         </div>
