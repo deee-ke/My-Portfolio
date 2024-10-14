@@ -1,0 +1,41 @@
+/* BadgesErnd.jsx */
+#badgesernd{
+    margin-top: 70px;
+}
+
+.badgeshead h2{
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.fullstckmain{
+    background-color: #1A496D;
+    margin-top: 50px;
+}
+
+.mainbadge{
+    overflow: hidden;
+}
+
+.fssdhead h3{
+    color: #ffffff;
+    font-size: 34px;
+    font-weight: 500;
+}
+.fssdsummary p{
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.badge{
+    background-color: #0f1012;
+}
+.badge img{
+    border-radius: 50%;
+    transition: transform 0.5s ease;
+}
+
+.badge:hover img{
+    transform: scale(1.1);
+}

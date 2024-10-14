@@ -28,7 +28,7 @@ function MyCertifications() {
                 </div>
                 <div className="summary">
                   <p className='m-0 text-end '>
-                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                  "Graduated with a Bachelor of Computer Application, focusing on key areas such as software development, programming languages, and database management. The curriculum emphasized hands-on learning, enabling the application of theoretical concepts in real-world scenarios. Developed strong analytical and problem-solving skills through diverse projects, preparing for a successful career in the technology sector. Achieved a solid foundation in computer science principles."
                   </p>
                 </div>
             </div>
@@ -46,7 +46,7 @@ function MyCertifications() {
                 </div>
                 <div className="summary">
                   <p className='m-0 text-start '>
-                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                  "Completed a comprehensive certification program focused on MEAN and MERN stack development. Gained hands-on experience in building dynamic web applications, mastering front-end and back-end technologies. Developed a deep understanding of RESTful APIs, database management, and user authentication. Enhanced problem-solving skills and learned best practices for full stack development, preparing for a successful career in web technologies."
                   </p>
                 </div>
             </div>
@@ -73,7 +73,7 @@ function MyCertifications() {
                 </div>
                 <div className="summary">
                   <p className='m-0 text-end '>
-                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                  "Completed the IBM Full Stack Software Developer Professional Certificate, focusing on front-end and back-end technologies, including HTML, CSS, JavaScript, Node.js, and React for building responsive web applications."
                   </p>
                 </div>
             </div>
@@ -91,7 +91,7 @@ function MyCertifications() {
                 </div>
                 <div className="summary">
                   <p className='m-0 text-start '>
-                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                  "Achieved a certificate in MEAN/MERN Full Stack Development from Luminar Technolab, focusing on practical skills in MongoDB, Express.js, Angular, and Node.js. Developed comprehensive web applications, Enhanced problem-solving abilities through hands-on projects, learning industry best practices in software development and deployment. Prepared for a dynamic career in web development with a solid foundation in modern frameworks."
                   </p>
                 </div>
             </div>

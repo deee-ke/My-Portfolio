@@ -1,0 +1,18 @@
+/* Footer.jsx */
+#footer{
+    background-color: #000;
+}
+.footer{
+    h2{
+        font-size: 25px;
+        font-weight: 300;
+        .myname{
+            font-weight: 600;
+            color: #88A462 !important;
+        }
+        .built{
+            font-weight: 600;
+            color: #00D8FF !important;
+        }
+    }
+}

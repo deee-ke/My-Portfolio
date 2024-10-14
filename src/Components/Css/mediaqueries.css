@@ -1,0 +1,21 @@
+
+/* Media queries */
+@media (max-width: 575.98px) {
+    .navbar-menu {
+        display: none; /* Hide the menu by default */
+        flex-direction: column; /* Stack the items vertically */
+        position: absolute;
+        top: 100%; /* Position below the navbar */
+        left: 0;
+        width: 100%; /* Full width */
+        background-color: #1a1c1f; /* Background for dropdown */
+      }
+    
+      .navbar-menu.open {
+        display: flex; /* Show menu when open */
+      }
+    
+      .navbar-toggle {
+        display: block; /* Show the toggle button */
+      }
+}

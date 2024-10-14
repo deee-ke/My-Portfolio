@@ -1,3 +1,26 @@
+/* MySplztn.jsx */
+#mysplztn{
+    margin-top: 70px;
+}
+.spzlcards{
+    margin-top: 50px;
+}
+.mysplhead h2{
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+/* .totcard{
+    background-color: #0f1012;
+} */
+
+.splcontent span{
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+}
+
 
 
 /* @media (max-width: 767.98px) {

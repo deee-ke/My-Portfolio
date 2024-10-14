@@ -1,0 +1,16 @@
+/* Head.jsx */
+.dhan{
+    color: #88A462;
+    h1{
+        font-size: 74px;
+        font-weight: 800;
+    }
+}
+
+.mern{
+    color: #929292;
+    h4{
+        font-size: 25px;
+        font-weight: 700;
+    }
+}

@@ -81,7 +81,7 @@ function Connection() {
                         </div>
                         <div className="resbutton d-flex justify-content-center">
                             <div className="resbtn rounded-1 ">
-                                <a download href='https://drive.google.com/file/d/1eEP0Hz-Tg7IoMgjA9Zdardzoh6JQXajo/view?usp=sharing' target='blank'><button>Download <i class="fa-solid fa-download"></i></button></a>
+                                <a download href='https://drive.google.com/file/d/1otypKIJ9IPnMdHCutpotEPnZSuM2gytx/view?usp=sharing' target='blank'><button>Download <i class="fa-solid fa-download"></i></button></a>
                             </div>
                         </div>
                     </div>

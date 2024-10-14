@@ -1,0 +1,31 @@
+/* Aboutme.jsx  */
+.aboutme{
+    background-color: #0f1012 ;
+    border-radius: 30px;
+}
+
+.abouthead{
+    display: flex;
+}
+
+.dp{
+    border-radius: 50%;
+    overflow: hidden;
+    border: 3px solid #ffffff;
+}
+
+.abouth2 h2{
+    color: #91826B;
+    font-size: 50px;
+    font-weight: 600;
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    transform:translateX(-50%);
+}
+
+.aboutcontent{
+    font-size: 24px;
+    color: #e0e0e0;
+    font-weight: 300;
+}

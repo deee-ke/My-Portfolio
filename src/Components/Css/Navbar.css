@@ -1,0 +1,16 @@
+/* NavBar.jsx */
+.navs .navlink{
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    margin-inline: 50px;
+}
+
+.navtoggle{
+    border: none;
+    background-color: #91826B;
+}
+
+.navlink:hover{
+    color: #88A462;
+}

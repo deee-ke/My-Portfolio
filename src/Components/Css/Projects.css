@@ -1,0 +1,99 @@
+/* Projects.jsx */
+#projects{
+    margin-top: 70px;
+}
+
+.projectshead h2{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.projectstypehead{
+    margin-top: 50px;
+}
+
+.projectstypehead h2{
+    font-size: 34px;
+    color: #88A462;
+    font-weight: 500;
+}
+
+.filtericon{
+    background-color: #91826B;
+
+}
+
+.filtericon i{
+    color: #0f1012;
+}
+
+.filterdropdown{
+    background-color: #ffffff;
+    color: black;
+}
+
+.filterdropdown select{
+    color: black;
+    border: none;
+    width: 100%;
+    height: 100%;
+    appearance:none;
+    font-weight: 500;
+}
+.filterdropdown select option{
+    color: black;
+    background-color: #ffffff;
+}
+
+.project{
+    margin-top: 50px;
+}
+
+/* .projectimg img{
+    border-radius: 30px;
+} */
+
+.projectimg iframe{
+    border-radius: 20px;
+    border: 2px solid black;
+}
+
+.projdescrhead h3{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.projdescription p{
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.projdescription span{
+    font-weight: 500;
+}
+
+.moreinfo{
+    font-style: italic;
+    text-decoration:underline;
+}
+
+.fa-caret-down{
+    color: #88A462;
+}
+.fa-caret-up{
+    color: #88A462;
+}
+
+.fa-eye{
+    color: #88A462;
+}
+.fa-github{
+    color: #91826B;
+}
+
+.fa-eye:hover{
+    color: #89a4629e;
+}
+.fa-github:hover{
+    color:#91826b9e
+}

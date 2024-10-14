@@ -1,5 +1,4 @@
 import React from 'react'
-import './myspzltn.css'
 import reactcert from '../Assets/Developing Front-End Apps with React.png'
 import htmlcss from '../Assets/Introduction to Web Development with HTML, CSS,JavaScript.png'
 import nodejs from '../Assets/Developing Back-End Apps with Node.js and Express.png'

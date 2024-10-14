@@ -1,0 +1,57 @@
+/* MyCertifications.jsx */
+#mycerti{
+    margin-top: 60px;
+}
+
+.mycertihead h2{
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.certiname h3{
+    font-size: 34px;
+    color: #88A462;
+    font-weight: 500;
+}
+
+.certi,.certiname{
+    margin-top: 70px;
+}
+
+.certisummary{
+    background-color: #0f1012;
+}
+
+.slno h1,.slno2 h1,.slno3 h1,.slno4 h1{
+    font-size: 220px;
+    color: #91826B;
+    font-weight: 700;
+    font-family: "Josefin Sans", serif;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    align-items: flex-start;
+    box-sizing: border-box;
+    line-height: 1;
+    margin-bottom: -30px;
+
+}
+
+.slno2 h1{
+    color: #828B80;
+}
+
+.slno3 h1{
+    color: #637783;
+}
+
+.slno4 h1{
+    color: #b7a5a3;
+}
+
+.summary p{
+    font-size: 24px ;
+    font-weight: 300;
+    color: #ffffff;
+}
