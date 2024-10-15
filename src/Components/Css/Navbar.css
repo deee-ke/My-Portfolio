@@ -17,4 +17,6 @@
 
 .navlink:hover{
     color: #6562a4;
+    background-color: #6562a414;
+    border-radius: 12px;
 }
