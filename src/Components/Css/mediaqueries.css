@@ -24,23 +24,49 @@
       /* About me */
 
       .dp img{
-        height: 7vh;
+        height: 7vh !important;
       }
 
       .abouth2 h2{
-        color: #91826B;
-        font-size: 35px;
+        
+        font-size: 35px !important;
         font-weight: 600;
-        margin: 0;
-        position: absolute;
-        left: 50%;
-        transform:translateX(-50%);
+        
       }
 
       .aboutcontent{
-        font-size: 1.15rem;
-        font-weight: 300;
+        font-size: 1.15rem !important;
+        font-weight: 300 !important;
       }
     
+      /* certifications */
+
+      .mycertihead h2{
+        font-size: 35px !important;
+        font-weight: 600 !important;
+      }
+
+      .certiname h3{
+        font-size: 20px !important;
+        color: #6562a4;
+        font-weight: 500;
+      }
+      .certi,.certiname{
+        margin-top: 30px !important;
+      }
+
+      .certi{
+        gap: 3rem !important;
+      }
+      
+      .slno h1,.slno2 h1,.slno3 h1,.slno4 h1{
+        font-size: 10rem !important;
+      }
+
+      .summary p{
+        font-size: 1.15rem !important;
+        
+        padding: 0 .5rem 1rem !important;
+      }
 
 }

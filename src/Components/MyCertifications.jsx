@@ -12,7 +12,7 @@ function MyCertifications() {
             <h2>My Certifications</h2>
         </div>
 
-        <div className="certiname text-center mt-4">
+        <div className="certiname text-center">
             <h3>Bachelor of Computer Applications</h3>
         </div>
 
