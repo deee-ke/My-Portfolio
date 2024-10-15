@@ -88,9 +88,7 @@
       }
 
       .card .info button:active {
-        border-radius: 20px;
-        background: #ffffff;
-        color: rgb(0, 0, 0);
+        background: initial;
       }
 
       /* badges */
