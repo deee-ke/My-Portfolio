@@ -1,25 +1,24 @@
 
 /* Media queries */
 @media (max-width: 575.98px) {
-    /* .navbar-menu {
-        display: none; 
-        flex-direction: column; 
-        position: absolute;
-        top: 100%; 
-        left: 0;
-        width: 100%; 
-        background-color: #1a1c1f; 
-      }
-    
-      .navbar-menu.open {
-        display: flex; 
-      }
-    
-      .navbar-toggle {
-        display: block; 
-      } */
 
+    /* navbar */
       .navlink{
         padding-left: 10px;
       }
+
+      /* head */
+      .dhan{
+        h1{
+          font-size: 55px;
+        }
+      }
+      .mern{
+        color: #929292;
+        h4{
+            font-size: 24px;
+            font-weight: 700;
+        }
+    }
+
 }
