@@ -17,7 +17,7 @@ function BadgesErnd() {
         <div className="badgeshead text-center">
             <h2>Badges Earned</h2>
         </div>
-        <div className="fullstckmain row rounded-4 p-5" onClick={goto}>
+        <div className="fullstckmain row rounded-4 p-4 " onClick={goto}>
             <div className="col-md-4">
                 <div className="mainbadge rounded-2" >
                     <img src={fssdBadge} alt="" width={'100%'}/>
@@ -37,36 +37,36 @@ function BadgesErnd() {
             </div>
         </div>
         <div className="allbadges mt-5">
-            <div className="row g-5 ">
-                <div className="col-md-3">
+            <div className="row g-4 ">
+                <div className="col-md-3 col-6">
                     <a href='https://www.credly.com/badges/ce826a92-c920-47c3-af40-2dca238259bb/public_url' target='blank'>
                         <div className="badge p-4 rounded-5">
                             <img src={reactBadge} alt="" width={'100%'} />
                         </div>
                     </a>
                 </div>
-                <div className="col-md-3">
+                <div className="col-md-3 col-6">
                     <a href='https://www.credly.com/badges/99ea739e-67b3-414e-b5cd-5413f055531a/public_url' target='blank'>
                         <div className="badge p-4 rounded-5">
                             <img src={nodeBadge} alt="" width={'100%'} />
                         </div>
                     </a>
                 </div>
-                <div className="col-md-3">
+                <div className="col-md-3 col-6">
                     <a href='https://www.credly.com/badges/15536aa9-ddb5-4c91-8c28-44a5f5520d31/public_url' target='blank'>
                         <div className="badge p-4 rounded-5">
                             <img src={htmlBadge} alt="" width={'100%'} />
                         </div>
                     </a>
                 </div>
-                <div className="col-md-3">
+                <div className="col-md-3 col-6">
                     <a href='https://www.credly.com/badges/ff1eabe2-e740-4e12-8e42-e42a2592360b/public_url' target='blank'>
                         <div className="badge p-4 rounded-5">
                             <img src={gitBadge} alt="" width={'100%'} />
                         </div>
                     </a>
                 </div>
-                <div className="col-md-3">
+                <div className="col-md-3 col-6">
                     <a href='https://www.credly.com/badges/ab03890d-c3d2-4ba1-89cc-39142e207e17/public_url' target='blank'>
                         <div className="badge p-4 rounded-5">
                             <img src={assesBadge} alt="" width={'100%'} />
