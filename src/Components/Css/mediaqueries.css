@@ -10,7 +10,8 @@
       /* head */
       .dhan{
         h1{
-          font-size: 55px;
+          font-size: 55px !important;
+          -webkit-font-smoothing: antialiased;
         }
       }
       .mern{
