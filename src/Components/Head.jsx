@@ -7,7 +7,7 @@ function Head() {
         <h1>Dhanish Ahamed</h1>
       </div>
       <div className="mern">
-        <h4>MERN Full Stack Developerrrr</h4>
+        <h4>MERN Full Stack Developer</h4>
       </div>
     </div>
   )
