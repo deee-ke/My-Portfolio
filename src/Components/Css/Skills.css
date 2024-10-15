@@ -19,63 +19,82 @@
 
 .html {
     border-left: 5px solid #E44D26;
-    i{
-        color: #E44D26;
-    }
+    
 }
+.html i{
+    color: #E44D26;
+}
+
 .css {
     border-left: 5px solid #1572B6;
-    i{
-        color: #1572B6;
-    }
+    
 }
+.css i{
+    color: #1572B6;
+}
+
 .javascript {
     border-left: 5px solid #F7DF1E;
-    i{
-        color: #F7DF1E;
-    }
+    
 }
+.javascript i{
+    color: #F7DF1E;
+}
+
 .bootstrap {
     border-left: 5px solid #7952B3;
-    i{
-        color: #7952B3;
-    }
+    
 }
+.bootstrap i{
+    color: #7952B3;
+}
+
 .react {
     border-left: 5px solid #00D8FF;
-    i{
-        color: #00D8FF;
-    }
+    
 }
+.react i{
+    color: #00D8FF;
+}
+
 .figma {
     border-left: 5px solid #0ACF83;
-    i{
-        color: #0ACF83;
-    }
+    
 }
+.figma i{
+    color: #0ACF83;
+}
+
 .mongo {
     border-left: 5px solid #47A248;
-    i{
-        color: #47A248;
-    }
+   
 }
+.mongo i{
+    color: #47A248;
+}
+
 .nodjs {
     border-left: 5px solid #339933;
-    i{
-        color: #339933;
-    }
+    
 }
+.nodjs i{
+    color: #339933;
+}
+
 .express {
     border-left: 5px solid #ffffff;
-    i{
-        color: #ffffff;
-    }
+    
 }
+.express i{
+    color: #ffffff;
+}
+
 .github {
     border-left: 5px solid #ffffff;
-    i{
-        color: #ffffff;
-    }
+    
+}
+.github i{
+    color: #ffffff;
 }
 
 .skillpercent span{
