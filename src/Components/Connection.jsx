@@ -24,7 +24,7 @@ function Connection() {
         </div> */}
 
         <div className="emailsoc">
-            <div className="row justify-content-evenly">
+            <div className="row justify-content-evenly g-4">
                 <div className="col-md-4">
                     <div className="email rounded-4 pt-4 pb-3 ">
                         <div className="emailicon d-flex justify-content-center mb-2">

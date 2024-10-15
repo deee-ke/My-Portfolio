@@ -171,6 +171,21 @@
         font-size: 1.2rem;
         font-weight: 400;
       }
+
+      /* Connection */
+
+      #connection{
+        margin-top: 40px;
+      }
+      
+      .connectionhead h2{
+        font-size: 35px;
+        font-weight: 600;
+      }
+
+      .emailsoc{
+        margin-block: 40px;
+      }
     
 
 }
