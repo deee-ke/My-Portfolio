@@ -75,8 +75,8 @@ function Projects() {
                                 <div className="projdescrhead d-flex justify-content-between">
                                     <h3>Way-2-Go</h3>
                                     <div className="controls d-flex gap-4">
-                                        <i class="fa-regular fa-eye fs-2"></i>
-                                        <i class="fa-brands fa-github fs-2"></i>
+                                        <a href='https://way-to-go.netlify.app' target='blank'><i class="fa-regular fa-eye fs-2"></i></a>
+                                        <a href='https://github.com/deee-ke/Way-2-go_travelWebsite' target='blank'><i class="fa-brands fa-github fs-2"></i></a>
                                     </div>
                                 </div>
                                 <div className="projdescription">
@@ -106,8 +106,8 @@ function Projects() {
                                 <div className="projdescrhead d-flex justify-content-between">
                                     <h3>WeatherKast</h3>
                                     <div className="controls d-flex gap-4">
-                                        <i class="fa-regular fa-eye fs-2"></i>
-                                        <i class="fa-brands fa-github fs-2"></i>
+                                        <a href='https://weatherkast-findweather.netlify.app' target='blank'><i class="fa-regular fa-eye fs-2"></i></a>
+                                        <a href='https://github.com/deee-ke/WeatherKast_find-weather' target='blank'><i class="fa-brands fa-github fs-2"></i></a>
                                     </div>
                                 </div>
                                 <div className="projdescription">
