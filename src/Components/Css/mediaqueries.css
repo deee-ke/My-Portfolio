@@ -9,14 +9,14 @@
 
       /* head */
       .dhan h1{
-        font-size: 40px !important;
-        font-weight: 800 !important;
+        font-size: 40px;
+        font-weight: 800;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
       }
       .mern h4{
         color: #dcdcdc;
-        font-size: 20px !important;
+        font-size: 20px ;
         font-weight: 500;
         
       }
@@ -24,49 +24,67 @@
       /* About me */
 
       .dp img{
-        height: 7vh !important;
+        height: 7vh ;
       }
 
       .abouth2 h2{
         
-        font-size: 35px !important;
+        font-size: 35px ;
         font-weight: 600;
         
       }
 
       .aboutcontent{
-        font-size: 1.15rem !important;
-        font-weight: 300 !important;
+        font-size: 1.15rem ;
+        font-weight: 300 ;
       }
     
       /* certifications */
 
       .mycertihead h2{
-        font-size: 35px !important;
-        font-weight: 600 !important;
+        font-size: 35px ;
+        font-weight: 600 ;
       }
 
       .certiname h3{
-        font-size: 20px !important;
+        font-size: 20px ;
         color: #6562a4;
         font-weight: 500;
       }
       .certi,.certiname{
-        margin-top: 30px !important;
+        margin-top: 30px ;
       }
 
       .certi{
-        gap: 3rem !important;
+        gap: 3rem ;
       }
       
       .slno h1,.slno2 h1,.slno3 h1,.slno4 h1{
-        font-size: 10rem !important;
+        font-size: 10rem ;
       }
 
       .summary p{
-        font-size: 1.15rem !important;
+        font-size: 1.15rem ;
         
-        padding: 0 .5rem 1rem !important;
+        padding: 0 .5rem 1rem ;
+      }
+
+      /* specialization */
+
+      .spzlcards{
+        margin-top: 20px ;
+      }
+
+      .mysplhead h2{
+        color: #ffffff;
+        font-size: 35px ;
+        font-weight: 600;
+      }
+
+      .splcontent span{
+        color: #ffffff;
+        font-size: 1rem;
+        font-weight: 450;
       }
 
 }

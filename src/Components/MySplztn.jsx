@@ -12,7 +12,7 @@ function MySplztn() {
         <div className="mysplhead text-center">
             <h2>My Specializations</h2>
         </div>
-        <div className="spzlcards row g-4">
+        <div className="spzlcards row ">
 
             <div className="col-md-4">
                 <div className='totcard rounded-5 pt-4 px-4'>
