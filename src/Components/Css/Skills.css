@@ -84,6 +84,10 @@
     color: #91826B;
 }
 
+.skillname{
+    margin-top: .3rem;
+}
+
 .skillname span{
     font-size: 25px;
     font-weight: 400;

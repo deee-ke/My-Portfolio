@@ -145,6 +145,32 @@
         font-size: 1.2rem;
         padding-left: 1.5rem;
       }
+
+      /* skills */
+    
+      .skillshead h2{
+        font-size: 35px;
+        font-weight: 600;
+      }
+
+      #skills{
+        margin-top: 40px;
+      }
+
+      .skills{
+        margin-top: 40px;
+      }
+      
+      .skillpercent span{
+        font-size: 1.4rem;
+        font-weight: 500;
+        color: #91826B;
+      }
+
+      .skillname span{
+        font-size: 1.2rem;
+        font-weight: 400;
+      }
     
 
 }

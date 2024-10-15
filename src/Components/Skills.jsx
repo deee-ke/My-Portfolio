@@ -8,9 +8,9 @@ function Skills() {
         </div>
         
         <div className="skills">
-            <div className="row g-5">
+            <div className="row g-4">
 
-                <div className="col-md-2">
+                <div className="col-md-4 px-4">
                     <div className="skill">
                         <div className="react skillbox p-3 rounded-4 d-flex justify-content-between">
                             <div className="skillicon">
@@ -26,7 +26,7 @@ function Skills() {
                     </div>
                 </div>
 
-                <div className="col-md-2">
+                <div className="col-md-4 px-4">
                     <div className="skill">
                         <div className="nodjs skillbox p-3 rounded-4 d-flex justify-content-between">
                             <div className="skillicon">
@@ -42,7 +42,7 @@ function Skills() {
                     </div>
                 </div>
 
-                <div className="col-md-2">
+                <div className="col-md-4 px-4">
                     <div className="skill">
                         <div className="express skillbox p-3 rounded-4 d-flex justify-content-between">
                             <div className="skillicon d-flex align-items-center">
@@ -59,7 +59,7 @@ function Skills() {
                     </div>
                 </div>
 
-                <div className="col-md-2">
+                <div className="col-md-4 px-4">
                     <div className="skill">
                         <div className="mongo skillbox p-3 rounded-4 d-flex justify-content-between">
                             <div className="skillicon">
@@ -75,7 +75,7 @@ function Skills() {
                     </div>
                 </div>
 
-                <div className="col-md-2">
+                <div className="col-md-4 px-4">
                     <div className="skill">
                         <div className="javascript skillbox p-3 rounded-4 d-flex justify-content-between">
                             <div className="skillicon">
@@ -91,7 +91,7 @@ function Skills() {
                     </div>
                 </div>
 
-                <div className="col-md-2">
+                <div className="col-md-4 px-4">
                     <div className="skill">
                         <div className="github skillbox p-3 rounded-4 d-flex justify-content-between">
                             <div className="skillicon">
@@ -107,7 +107,7 @@ function Skills() {
                     </div>
                 </div>
 
-                <div className="col-md-2">
+                <div className="col-md-4 px-4">
                     <div className="skill">
                         <div className="html skillbox p-3 rounded-4 d-flex justify-content-between">
                             <div className="skillicon">
@@ -123,7 +123,7 @@ function Skills() {
                     </div>
                 </div>
                 
-                <div className="col-md-2">
+                <div className="col-md-4 px-4">
                     <div className="skill">
                         <div className="css skillbox p-3 rounded-4 d-flex justify-content-between">
                             <div className="skillicon">
@@ -139,7 +139,7 @@ function Skills() {
                     </div>
                 </div>
 
-                <div className="col-md-2">
+                <div className="col-md-4 px-4">
                     <div className="skill">
                         <div className="bootstrap skillbox p-3 rounded-4 d-flex justify-content-between">
                             <div className="skillicon">
@@ -155,7 +155,7 @@ function Skills() {
                     </div>
                 </div>
 
-                <div className="col-md-2">
+                <div className="col-md-4 px-4">
                     <div className="skill">
                         <div className="figma skillbox p-3 rounded-4 d-flex justify-content-between">
                             <div className="skillicon">
