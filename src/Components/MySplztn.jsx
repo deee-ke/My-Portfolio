@@ -19,8 +19,7 @@ function MySplztn() {
                     <div class="card">
                         <img src={reactcert} alt=''/>
                         <div class="info d-flex justify-content-center align-items-center flex-column mx-auto p-5">
-                            {/* <h1 className='fs-2'>Way 2 go</h1> */}
-                            {/* <p>HTML,CSS,JavaScript</p> */}
+                           
                             <a href='https://coursera.org/share/6bdec3630d48fb3e812e5e7b1d1563b5' target='blank'><button >Click to view more <i class="fa-solid fa-arrow-right"></i></button></a>
                         </div>
                     </div>
