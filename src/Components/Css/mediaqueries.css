@@ -114,4 +114,25 @@
         font-weight: 300;
       }
 
+      /* projects */
+
+      .projectshead h2{
+        font-size: 35px;
+        font-weight: 600;
+      }
+
+      .projectstypehead{
+        margin-top: 20px;
+      }
+
+      .projectstypehead h2{
+        font-size: 20px;
+        font-weight: 500;
+      }
+
+      .filtericon i{
+        font-size: 1rem;
+      }
+    
+
 }

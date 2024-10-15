@@ -33,12 +33,13 @@ function Projects() {
             </div>)}
 
             <div className="col-md-3 px-5">
-                <div className="filterbox row d-flex justify-content-between rounded-3 bg-white">
-                    <div className='filtericon col-3 p-2 d-flex justify-content-center rounded-start-3'>
-                        <i class="fa-solid fa-filter fs-3"></i>
-                    </div>
-                    <div className="filterdropdown col-9 rounded-end-5">
-                        <select value={option} onChange={handleOption} className='rounded-end-3 text-center'>
+                <div className="filterbox  d-flex justify-content-center rounded ">
+                    
+                    <div className="filterdropdown d-flex  rounded-3 pe-3">
+                        <div className='filtericon  p-2 '>
+                            <i class="fa-solid fa-filter "></i>
+                        </div>
+                        <select value={option} onChange={handleOption} className=' text-center bg-transparent'>
                             <option value="allpr">All projects</option>
                             <option value="fullpr">Full-stack projects</option>
                             <option value="frontpr">Front-end projects</option>
@@ -53,7 +54,7 @@ function Projects() {
             <div className='col-12'>
                 <div className="project text-center">
 
-                           <h2>Sorry! Full-Stack category under development!</h2>
+                           <h2 className='text-danger'>Sorry! Full-Stack category under development!</h2>
      
                 </div>
             </div>
