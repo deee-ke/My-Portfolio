@@ -13,6 +13,7 @@
           font-size: 55px !important;
           font-weight: bolder !important;
           -webkit-font-smoothing: antialiased;
+          -moz-osx-font-smoothing: grayscale;
         }
       }
       .mern{
