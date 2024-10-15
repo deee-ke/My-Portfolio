@@ -8,20 +8,17 @@
       }
 
       /* head */
-      .dhan{
-        h1{
-          font-size: 55px !important;
-          font-weight: bolder !important;
-          -webkit-font-smoothing: antialiased;
-          -moz-osx-font-smoothing: grayscale;
-        }
+      .dhan h1{
+        font-size: 55px !important;
+        font-weight: bolder !important;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
       }
-      .mern{
+      .mern h1{
         color: #929292;
-        h4{
-            font-size: 24px;
-            font-weight: 700;
-        }
-    }
+        font-size: 24px;
+        font-weight: 700;
+        
+      }
 
 }
