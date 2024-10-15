@@ -8,34 +8,36 @@ import assesBadge from '../Assets/full-stack-software-developer-assessment-v2.pn
 
 function BadgesErnd() {
 
-    const goto = ()=>{
-        window.open("https://www.credly.com/badges/6ebc0274-7176-44c2-97bc-94a42a82c73c/public_url",'blank')
-    }
+    // const goto = ()=>{
+    //     window.open("https://www.credly.com/badges/6ebc0274-7176-44c2-97bc-94a42a82c73c/public_url",'blank')
+    // }
 
   return (
     <div id='badgesernd'>
         <div className="badgeshead text-center">
             <h2>Badges Earned</h2>
         </div>
-        <div className="fullstckmain row rounded-4 p-4 " onClick={goto}>
-            <div className="col-md-4">
-                <div className="mainbadge rounded-2" >
-                    <img src={fssdBadge} alt="" width={'100%'}/>
-                </div>
-            </div>
-            <div className="col-md-8">
-                <div className="mainbadgedetails">
-                    <div className="fssdhead">
-                        <h3>Full Stack Software Developer Professional certificate</h3>
-                    </div>
-                    <div className="fssdsummary mt-4">
-                        <p>
-                        Awarded the IBM Full Stack Software Developer Professional Certificate badge via Credly, recognizing comprehensive skills in both front-end and back-end development. Gained expertise in technologies such as React, Node.js, HTML, and CSS. Demonstrated proficiency in building, deploying, and maintaining full stack web applications. The badge validates real-world project experience, ensuring readiness to take on complex software development challenges in professional environments.
-                        </p>
+        <a className='fullstackmainlink' href='https://www.credly.com/badges/6ebc0274-7176-44c2-97bc-94a42a82c73c/public_url' target='blank'>
+            <div className="fullstckmain row rounded-4 p-4 " >
+                <div className="col-md-4">
+                    <div className="mainbadge rounded-2" >
+                        <img src={fssdBadge} alt="" width={'100%'}/>
                     </div>
                 </div>
+                <div className="col-md-8">
+                    <div className="mainbadgedetails">
+                        <div className="fssdhead">
+                            <h3>Full Stack Software Developer Professional certificate</h3>
+                        </div>
+                        <div className="fssdsummary mt-4">
+                            <p>
+                            Awarded the IBM Full Stack Software Developer Professional Certificate badge via Credly, recognizing comprehensive skills in both front-end and back-end development. Gained expertise in technologies such as React, Node.js, HTML, and CSS. Demonstrated proficiency in building, deploying, and maintaining full stack web applications. The badge validates real-world project experience, ensuring readiness to take on complex software development challenges in professional environments.
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
-        </div>
+        </a>
         <div className="allbadges mt-5">
             <div className="row g-4 ">
                 <div className="col-md-3 col-6">
