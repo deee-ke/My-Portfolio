@@ -6,6 +6,7 @@ import Collapse from 'react-bootstrap/Collapse';
 
 function Projects() {
     const [open, setOpen] = useState(false);
+    const [open2, setOpen2] = useState(false);
 
     const [option, setOption] = useState("allpr")
 
@@ -67,13 +68,13 @@ function Projects() {
                 <div className="project">
 
                             <div className="projectimg">
-                                {/* <img src={waytogo} alt="" width={'100%'} /> */}
-                                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7132616104006328320?compact=1" height="399" width={'100%'} frameborder="0" allowfullscreen="" title="Embedded post" scrolling='no'></iframe>
+                                
+                                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7132616104006328320?compact=1" height="399" width={'100%'} frameborder="0" allowFullscreen="" title="Embedded post" scrolling='no'></iframe>
                             </div>
-                            <div className="projectdescr mt-3">
+                            <div className="projectdescr mt-2">
                                 <div className="projdescrhead d-flex justify-content-between">
                                     <h3>Way-2-Go</h3>
-                                    <div className="controls d-flex gap-3">
+                                    <div className="controls d-flex gap-4">
                                         <i class="fa-regular fa-eye fs-2"></i>
                                         <i class="fa-brands fa-github fs-2"></i>
                                     </div>
@@ -98,20 +99,20 @@ function Projects() {
                 <div className="project">
 
                             <div className="projectimg">
-                                {/* <img src={waytogo} alt="" width={'100%'} /> */}
-                                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7132611713849307136?compact=1" height={"100%"} width={'100%'} frameborder="0" allowfullscreen="" title="Embedded post" scrolling='no'></iframe>
+                                
+                                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7132611713849307136?compact=1" height={"100%"} width={'100%'} frameborder="0" allowFullscreen="" title="Embedded post" scrolling='no'></iframe>
                             </div>
-                            <div className="projectdescr mt-3">
+                            <div className="projectdescr mt-2">
                                 <div className="projdescrhead d-flex justify-content-between">
                                     <h3>WeatherKast</h3>
-                                    <div className="controls d-flex gap-3">
+                                    <div className="controls d-flex gap-4">
                                         <i class="fa-regular fa-eye fs-2"></i>
                                         <i class="fa-brands fa-github fs-2"></i>
                                     </div>
                                 </div>
                                 <div className="projdescription">
-                                    <p className='mb-2 moreinfo' onClick={() => setOpen(!open)} aria-controls="example-collapse-text" aria-expanded={open}>More info <i class="fa-solid fa-caret-down"></i></p>
-                                    <Collapse in={open}>
+                                    <p className='mb-2 moreinfo' onClick={() => setOpen2(!open2)} aria-controls="example-collapse-text" aria-expanded={open}>More info <i class="fa-solid fa-caret-down"></i></p>
+                                    <Collapse in={open2}>
                                         <div id="example-collapse-text">
                                         <p><span>Technologies Used: </span>HTML, CSS, Bootstrap, Javascript. <br />
                                         <span>Overview: </span> This responsive weather-finding website brings a seamless user experience. Check out the video to see how technology and creativity come together to make weather tracking a breeze!  <br />
