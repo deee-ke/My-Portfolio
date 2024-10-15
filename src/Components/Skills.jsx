@@ -33,7 +33,7 @@ function Skills() {
                                 <i class="fa-brands fa-node-js fs-1"></i>
                             </div>
                             <div className="skillpercent">
-                                <span>91%</span>
+                                <span>80%</span>
                             </div>
                         </div>
                         <div className="skillname">
@@ -50,7 +50,7 @@ function Skills() {
                                 <i class="fa-brands fa-x fs-3"></i>
                             </div>
                             <div className="skillpercent">
-                                <span>91%</span>
+                                <span>75%</span>
                             </div>
                         </div>
                         <div className="skillname">
@@ -66,7 +66,7 @@ function Skills() {
                                 <i class="fa-solid fa-database fs-1"></i>
                             </div>
                             <div className="skillpercent">
-                                <span>91%</span>
+                                <span>82%</span>
                             </div>
                         </div>
                         <div className="skillname">
@@ -82,7 +82,7 @@ function Skills() {
                                 <i class="fa-brands fa-js fs-1"></i>
                             </div>
                             <div className="skillpercent">
-                                <span>91%</span>
+                                <span>89%</span>
                             </div>
                         </div>
                         <div className="skillname">
@@ -98,7 +98,7 @@ function Skills() {
                                 <i class="fa-brands fa-github fs-1"></i>
                             </div>
                             <div className="skillpercent">
-                                <span>91%</span>
+                                <span>93%</span>
                             </div>
                         </div>
                         <div className="skillname">
@@ -114,7 +114,7 @@ function Skills() {
                             <i class="fa-brands fa-html5 fs-1"></i>
                             </div>
                             <div className="skillpercent">
-                                <span>91%</span>
+                                <span>94%</span>
                             </div>
                         </div>
                         <div className="skillname">
@@ -130,7 +130,7 @@ function Skills() {
                                 <i class="fa-brands fa-css3 fs-1"></i>
                             </div>
                             <div className="skillpercent">
-                                <span>91%</span>
+                                <span>94%</span>
                             </div>
                         </div>
                         <div className="skillname">
@@ -146,7 +146,7 @@ function Skills() {
                                 <i class="fa-brands fa-bootstrap fs-1"></i>
                             </div>
                             <div className="skillpercent">
-                                <span>91%</span>
+                                <span>95%</span>
                             </div>
                         </div>
                         <div className="skillname">
@@ -162,7 +162,7 @@ function Skills() {
                                 <i class="fa-brands fa-figma fs-1"></i>
                             </div>
                             <div className="skillpercent">
-                                <span>91%</span>
+                                <span>88%</span>
                             </div>
                         </div>
                         <div className="skillname">

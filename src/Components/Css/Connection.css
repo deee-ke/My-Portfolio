@@ -55,7 +55,7 @@
 }
 
 .gmail a{
-    color: #88A462;
+    color: #6562A4;
     font-size: 18px;
     font-weight: 400;
 }
@@ -68,7 +68,7 @@
     text-decoration: none;
     /* transition: transform 4s ease-in-out; */
     i{
-        color: #88A462;
+        color: #6562A4;
     }
 }
 
@@ -111,7 +111,7 @@
 }
 
 .resbtn{
-    background-color: #88A462;
+    background-color: #6562A4;
 }
 .resbtn button{
     color: #0f1012;
@@ -125,5 +125,5 @@
 }
 
 .resbtn:hover{
-    background-color: #89a46286;
+    background-color: #91826B;
 }
