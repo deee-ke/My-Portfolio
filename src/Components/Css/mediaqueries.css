@@ -9,16 +9,38 @@
 
       /* head */
       .dhan h1{
-        font-size: 55px !important;
-        font-weight: bolder !important;
+        font-size: 40px !important;
+        font-weight: 800 !important;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
       }
-      .mern h1{
-        color: #929292;
-        font-size: 24px;
-        font-weight: 700;
+      .mern h4{
+        color: #dcdcdc;
+        font-size: 20px !important;
+        font-weight: 500;
         
       }
+
+      /* About me */
+
+      .dp img{
+        height: 7vh;
+      }
+
+      .abouth2 h2{
+        color: #91826B;
+        font-size: 35px;
+        font-weight: 600;
+        margin: 0;
+        position: absolute;
+        left: 50%;
+        transform:translateX(-50%);
+      }
+
+      .aboutcontent{
+        font-size: 1.15rem;
+        font-weight: 300;
+      }
+    
 
 }

@@ -6,9 +6,9 @@ function Aboutme() {
     <div className='aboutme container p-4 mt-5'>
       <div className="abouthead mb-4">
         <div className="dp">
-            <img src={dpcut} alt="" height={112}/>
+            <img src={dpcut} alt="" />
         </div>
-        <div className="abouth2 d-flex align-items-center mx-auto">
+        <div className="abouth2 d-flex align-items-center ">
           <h2>About Me</h2>
         </div>
       </div>

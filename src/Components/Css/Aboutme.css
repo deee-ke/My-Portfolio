@@ -14,6 +14,10 @@
     border: 3px solid #ffffff;
 }
 
+.dp img{
+    height: 14vh;
+}
+
 .abouth2 h2{
     color: #91826B;
     font-size: 50px;
